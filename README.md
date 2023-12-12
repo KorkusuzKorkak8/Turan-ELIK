@@ -25,17 +25,15 @@
 
 <br />
 
-Hi, I'm [Abhishek Naidu](https://abhisheknaidu.tech), a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreativeCommons](https://github.com/creativecommons), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Esat Turan Elik](), a Full Stack Developer 🚀 from Turkey, currently
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GraphQL and C++; 
+- 🌱 I’m currently learning PHP and JavaScript; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@geeky_abhiz](https://twitter.com/geeky_abhiz);
-- 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
 
 **Languages and Tools:**  
 
@@ -53,11 +51,11 @@ Hi, I'm [Abhishek Naidu](https://abhisheknaidu.tech), a Full Stack Developer �
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Vue.js       7 hrs 41 mins   ████████████▓░░░░░░░░░░░░   50.67 % 
-C++          4 hrs 42 mins   ███████▓░░░░░░░░░░░░░░░░░   31.04 % 
-Markdown     52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-JavaScript   42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-Git Config   36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+JS     7 hrs 41 mins   ████████████▓░░░░░░░░░░░░   50.67 % 
+PHP         4 hrs 42 mins   ███████▓░░░░░░░░░░░░░░░░░   31.04 % 
+HTML5     52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+CSS3   42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+MySQl   36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 ```
 <!--END_SECTION:waka-->
 
@@ -69,6 +67,5 @@ Git Config   36 mins         █░░░░░░░░░░░░░░░░
 </details>
 
 -----
-Credits: [abhisheknaiidu](https://github.com/abhisheknaiidu)
 
-Last Edited on: 30/08/2020
+Last Edited on: 12/12/2023
